@@ -1,0 +1,3 @@
+LOGIN_BGCOLOR = (255, 240, 245)
+LOGIN_TEXT_COLOR = 16, 78, 139
+LOGIN_TEXT_FONT = ("Georgia", 30, "normal")
